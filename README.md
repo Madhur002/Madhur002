@@ -16,8 +16,8 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Madhur002&theme=great-gatsby&hide_border=true&include_all_commits=true&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Madhur002&theme=great-gatsby&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Madhur002&theme=great-gatsby&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Madhur002&theme=great-gatsby&hide_border=true)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
