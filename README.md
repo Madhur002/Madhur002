@@ -143,8 +143,8 @@
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Madhur002&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=great-gatsby&locale=en&hide_border=true&order=1" height="151" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Madhur002&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=great-gatsby&hide_border=true&order=2" height="159" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Madhur002&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=great-gatsby&locale=en&hide_border=true&order=1" height="151" alt="stats graph"  /> <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Madhur002&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=great-gatsby&hide_border=true&order=2" height="159" alt="languages graph"  /> <br/>
   <img src="https://streak-stats.demolab.com?user=Madhur002&locale=en&mode=daily&theme=great-gatsby&hide_border=true&border_radius=9&order=3" height="143" alt="streak graph"  />
 </div>
 
