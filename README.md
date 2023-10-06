@@ -1,6 +1,6 @@
 <img align="center" alt="Coding" width="100%" src="https://media.licdn.com/dms/image/C5616AQFBzJO2BZo9yA/profile-displaybackgroundimage-shrink_350_1400/0/1646060518522?e=1696464000&v=beta&t=g3Z-ft_iYTZKEwrWX7wk6dWC1oOUwaMUyJaHg4Zq0Eo"/>
 <h1 align="center">Hi 👋, I'm Madhur</h1>
-<h3 align="center">An unstoppable, code-wielding wizard hailing from the vibrant tapestry of India 🇮🇳, <br> where innovation dances with tradition, a Full-Stack developer unleashes boundless creativity upon the digital canvas. 🧑🏻‍💻💻</h3>
+<h3 align="center" style={text-white}>An unstoppable, code-wielding wizard hailing from the vibrant tapestry of India 🇮🇳, <br> where innovation dances with tradition, a Full-Stack developer unleashes boundless creativity upon the digital canvas. 🧑🏻‍💻💻</h3>
 <img align="center" alt="Coding" width="100%" height="80%" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif"/>
 
 - 🔭 I’m currently working on [Taskly](https://github.com/Madhur002/Taskly)
