@@ -3,19 +3,8 @@
 <h3 align="center" style={color: "white"}>An unstoppable, code-wielding wizard hailing from the vibrant tapestry of India 🇮🇳, <br> where innovation dances with tradition, a Full-Stack developer unleashes boundless creativity upon the digital canvas. 🧑🏻‍💻💻</h3>
 <img align="center" alt="Coding" width="100%" height="80%" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif"/>
 
-- 🔭 I’m currently working on [Taskly](https://github.com/Madhur002/Taskly)
-
-- 🌱 I’m currently learning **Langchain & Pinecone.**
-
-- 👨‍💻 All of my projects are available at [https://madhur002.github.io/Portfolio-site/](https://madhur002.github.io/Portfolio-site/)
-
-- 💬 Ask me about **React Js, Next.Js, Nest Js, etc**
-
-- 📫 How to reach me **madhursharma2001@outlook.com**
-
-- 📄 Know about my experiences [https://madhur002.github.io/Portfolio-site/](https://madhur002.github.io/Portfolio-site/)
-
-- ⚡ Fun fact **I think there is no fun fact.**
+# 💫 About Me:
+🔭 I’m currently working on Artificial Intelligence<br>🌱 I’m currently learning Microsoft Azure cognitive services.<br>👨‍💻 All of my projects are available at https://madhur002.github.io/Portfolio-site/<br>💬 Ask me about Next.Js, React Js, Nest Js, and MERN stack.<br>📫 How to reach me madhursharma2001@outlook.com<br>📄 Know about my experiences https://madhur002.github.io/Portfolio-site/<br>⚡ Fun fact I think there is no fun fact.<br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
