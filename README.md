@@ -1,29 +1,164 @@
-<img align="center" alt="Coding" width="100%" src="https://media.licdn.com/dms/image/C5616AQFBzJO2BZo9yA/profile-displaybackgroundimage-shrink_350_1400/0/1646060518522?e=1696464000&v=beta&t=g3Z-ft_iYTZKEwrWX7wk6dWC1oOUwaMUyJaHg4Zq0Eo"/>
-<h1 align="center">Hi 👋, I'm Madhur</h1>
-<h3 align="center" style={color: "white"}>An unstoppable, code-wielding wizard hailing from the vibrant tapestry of India 🇮🇳, <br> where innovation dances with tradition, a Full-Stack developer unleashes boundless creativity upon the digital canvas. 🧑🏻‍💻💻</h3>
+<h1 align="right">Hey 👋 What's up?</h1>
 
-# 💫 About Me:
-🔭 I’m currently working on Artificial Intelligence<br>🌱 I’m currently learning Microsoft Azure cognitive services.<br>👨‍💻 All of my projects are available at https://madhur002.github.io/Portfolio-site/<br>💬 Ask me about Next.Js, React Js, Nest Js, and MERN stack.<br>📫 How to reach me madhursharma2001@outlook.com<br>📄 Know about my experiences https://madhur002.github.io/Portfolio-site/<br>⚡ Fun fact I think there is no fun fact.<br>
+###
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/madhur-s-bbb7b5200" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="madhur-s-bbb7b5200" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/madhur002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="madhur002" height="30" width="40" /></a>
-</p>
+<h4 align="left">Hi There this is Madhur -<br>An unstoppable, code-wielding wizard hailing from the vibrant tapestry of India 🇮🇳,  where innovation dances with tradition, A Full-Stack developer unleashes boundless creativity upon the digital canvas. 🧑🏻‍💻💻</h4>
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=flat&logo=render&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=flat&logo=heroku&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=flat&logo=github&logoColor=white) ![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=flat&logo=apachehadoop&logoColor=black) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=flat&logo=chart.js&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white) ![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=flat&logo=daisyui&logoColor=white) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=flat&logo=expo&logoColor=#D04A37) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=flat&logo=jquery&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=flat&logo=mui&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=flat&logo=nodemon&logoColor=%BBDEAD) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=flat&logo=nestjs&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=flat&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=flat&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat&logo=redux&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat&logo=SASS&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=flat&logo=socket.io&badgeColor=010101) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=flat&logo=spring&logoColor=white) ![Strapi](https://img.shields.io/badge/strapi-%232E7EEA.svg?style=flat&logo=strapi&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=flat&logo=svelte&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=flat&logo=three.js&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=flat&logo=WordPress&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=flat&logo=yarn&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=flat&logo=Amazon%20DynamoDB&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat&logo=Firebase&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=flat&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=flat&logo=adobe&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=flat&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Adobe Audition](https://img.shields.io/badge/Adobe%20Audition-9999FF.svg?style=flat&logo=Adobe%20Audition&logoColor=white) ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=flat&logo=Adobe%20Creative%20Cloud&logoColor=white) ![Adobe Dreamweaver](https://img.shields.io/badge/Adobe%20Dreamweaver-FF61F6.svg?style=flat&logo=Adobe%20Dreamweaver&logoColor=white) ![Adobe Fonts](https://img.shields.io/badge/Adobe%20Fonts-000B1D.svg?style=flat&logo=Adobe%20Fonts&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=flat&logo=adobe%20illustrator&logoColor=white) ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=flat&logo=adobeindesign&logoColor=FF3366) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=flat&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Lightroom Classic](https://img.shields.io/badge/Adobe%20Lightroom%20Classic-31A8FF.svg?style=flat&logo=Adobe%20Lightroom%20Classic&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=flat&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=flat&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=flat&logo=Adobe%20XD&logoColor=#FF61F6) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=flat&logo=blender&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=flat&logo=framer&logoColor=blue) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=flat&logo=gimp&logoColor=FFFFFF) ![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=flat&logo=inkscape&logoColor=080A13) ![Krita](https://img.shields.io/badge/Krita-203759?style=flat&logo=krita&logoColor=EEF37B) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=flat&logo=git&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=flat&logo=babel&logoColor=black) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=flat&logo=cmake&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=flat&logo=eslint&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=firefox&logoColor=#FF7139) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+###
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Madhur002&theme=great-gatsby&hide_border=true&include_all_commits=true&count_private=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Madhur002&theme=great-gatsby&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Madhur002&theme=great-gatsby&hide_border=true)
+<h2 align="left">About me</h2>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+###
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Madhur002&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="left">✨ Creating bugs since 2001.<br>🔭 I’m currently working on Artificial Intelligence.<br>🌱 I’m currently learning Microsoft Azure cognitive services.<br>👨‍💻 All of my projects are available at https://madhur002.github.io/Portfolio-site/<br>💬 Ask me about Next.Js, React Js, Nest Js, and MERN stack.<br>📫 How to reach me madhursharma2001@outlook.com<br>📄 Know about my experiences https://madhur002.github.io/Portfolio-site/<br>⚡ Fun fact I think there is no fun fact.</p>
 
----
-[![](https://visitcount.itsvg.in/api?id=Madhur002&icon=0&color=2)](https://visitcount.itsvg.in)
+###
+
+<h2 align="left">I code with</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.simpleicons.org/adobeillustrator/FF9A00" height="38" alt="adobeillustrator logo"  />
+  <img width="13" />
+  <img src="https://cdn.simpleicons.org/adobephotoshop/31A8FF" height="38" alt="adobephotoshop logo"  />
+  <img width="13" />
+  <img src="https://cdn.simpleicons.org/adobeaftereffects/9999FF" height="38" alt="adobeaftereffects logo"  />
+  <img width="13" />
+  <img src="https://cdn.simpleicons.org/adobeaudition/9999FF" height="38" alt="adobeaudition logo"  />
+  <img width="13" />
+  <img src="https://cdn.simpleicons.org/adobepremierepro/9999FF" height="38" alt="adobepremierepro logo"  />
+  <img width="13" />
+  <img src="https://cdn.simpleicons.org/adobeaftereffects/9999FF" height="38" alt="aftereffects logo"  />
+  <img width="13" />
+  <img src="https://cdn.simpleicons.org/android/3DDC84" height="38" alt="android logo"  />
+  <img width="13" />
+  <img src="https://cdn.simpleicons.org/androidstudio/3DDC84" height="38" alt="androidstudio logo"  />
+  <img width="13" />
+  <img src="https://cdn.simpleicons.org/apache/D22128" height="38" alt="apache logo"  />
+  <img width="13" />
+  <img src="https://cdn.simpleicons.org/apple/000000" height="38" alt="apple logo"  />
+  <img width="13" />
+  <img src="https://cdn.simpleicons.org/babel/F9DC3E" height="38" alt="babel logo"  />
+  <img width="13" />
+  <img src="https://cdn.simpleicons.org/blender/F5792A" height="38" alt="blender logo"  />
+  <img width="13" />
+  <img src="https://cdn.simpleicons.org/bootstrap/7952B3" height="38" alt="bootstrap logo"  />
+  <img width="13" />
+  <img src="https://cdn.simpleicons.org/behance/1769FF" height="38" alt="behance logo"  />
+  <img width="13" />
+  <img src="https://cdn.simpleicons.org/canva/00C4CC" height="38" alt="canva logo"  />
+  <img width="13" />
+  <img src="https://cdn.simpleicons.org/c/A8B9CC" height="38" alt="c logo"  />
+  <img width="13" />
+  <img src="https://cdn.simpleicons.org/css3/1572B6" height="38" alt="css3 logo"  />
+  <img width="13" />
+  <img src="https://cdn.simpleicons.org/docker/2496ED" height="38" alt="docker logo"  />
+  <img width="13" />
+  <img src="https://cdn.simpleicons.org/discord/5865F2" height="38" alt="discord logo"  />
+  <img width="13" />
+  <img src="https://cdn.simpleicons.org/debian/A81D33" height="38" alt="debian logo"  />
+  <img width="13" />
+  <img src="https://cdn.simpleicons.org/d3dotjs/F9A03C" height="38" alt="d3js logo"  />
+  <img width="13" />
+  <img src="https://cdn.simpleicons.org/eslint/4B32C3" height="38" alt="eslint logo"  />
+  <img width="13" />
+  <img src="https://cdn.simpleicons.org/firebase/FFCA28" height="38" alt="firebase logo"  />
+  <img width="13" />
+  <img src="https://cdn.simpleicons.org/figma/F24E1E" height="38" alt="figma logo"  />
+  <img width="13" />
+  <img src="https://cdn.simpleicons.org/firefox/FF7139" height="38" alt="firefox logo"  />
+  <img width="13" />
+  <img src="https://cdn.simpleicons.org/express/000000" height="38" alt="express logo"  />
+  <img width="13" />
+  <img src="https://cdn.simpleicons.org/gimp/5C5543" height="38" alt="gimp logo"  />
+  <img width="13" />
+  <img src="https://cdn.simpleicons.org/git/F05032" height="38" alt="git logo"  />
+  <img width="13" />
+  <img src="https://cdn.simpleicons.org/github/181717" height="38" alt="github logo"  />
+  <img width="13" />
+  <img src="https://cdn.simpleicons.org/google/4285F4" height="38" alt="google logo"  />
+  <img width="13" />
+  <img src="https://cdn.simpleicons.org/googlecloud/4285F4" height="38" alt="googlecloud logo"  />
+  <img width="13" />
+  <img src="https://cdn.simpleicons.org/html5/E34F26" height="38" alt="html5 logo"  />
+  <img width="13" />
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="38" alt="javascript logo"  />
+  <img width="13" />
+  <img src="https://cdn.simpleicons.org/jquery/0769AD" height="38" alt="jquery logo"  />
+  <img width="13" />
+  <img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="38" alt="linkedin logo"  />
+  <img width="13" />
+  <img src="https://cdn.simpleicons.org/linux/FCC624" height="38" alt="linux logo"  />
+  <img width="13" />
+  <img src="https://cdn.simpleicons.org/mongodb/47A248" height="38" alt="mongodb logo"  />
+  <img width="13" />
+  <img src="https://cdn.simpleicons.org/mui/007FFF" height="38" alt="materialui logo"  />
+  <img width="13" />
+  <img src="https://cdn.simpleicons.org/nestjs/E0234E" height="38" alt="nestjs logo"  />
+  <img width="13" />
+  <img src="https://cdn.simpleicons.org/netlify/00C7B7" height="38" alt="netlify logo"  />
+  <img width="13" />
+  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="38" alt="mysql logo"  />
+  <img width="13" />
+  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="38" alt="nodejs logo"  />
+  <img width="13" />
+  <img src="https://cdn.simpleicons.org/opera/FF1B2D" height="38" alt="opera logo"  />
+  <img width="13" />
+  <img src="https://cdn.simpleicons.org/react/61DAFB" height="38" alt="react logo"  />
+  <img width="13" />
+  <img src="https://cdn.simpleicons.org/oracle/F80000" height="38" alt="oracle logo"  />
+  <img width="13" />
+  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="38" alt="postman logo"  />
+  <img width="13" />
+  <img src="https://cdn.simpleicons.org/powershell/5391FE" height="38" alt="powershell logo"  />
+  <img width="13" />
+  <img src="https://cdn.simpleicons.org/qt/41CD52" height="38" alt="qt logo"  />
+  <img width="13" />
+  <img src="https://cdn.simpleicons.org/redux/764ABC" height="38" alt="redux logo"  />
+  <img width="13" />
+  <img src="https://cdn.simpleicons.org/sass/CC6699" height="38" alt="sass logo"  />
+  <img width="13" />
+  <img src="https://cdn.simpleicons.org/safari/000000" height="38" alt="safari logo"  />
+  <img width="13" />
+  <img src="https://cdn.simpleicons.org/stackoverflow/F58025" height="38" alt="stackoverflow logo"  />
+  <img width="13" />
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="38" alt="tailwindcss logo"  />
+  <img width="13" />
+  <img src="https://cdn.simpleicons.org/threedotjs/000000" height="38" alt="threejs logo"  />
+  <img width="13" />
+  <img src="https://cdn.simpleicons.org/typescript/3178C6" height="38" alt="typescript logo"  />
+  <img width="13" />
+  <img src="https://cdn.simpleicons.org/ubuntu/E95420" height="38" alt="ubuntu logo"  />
+  <img width="13" />
+  <img src="https://cdn.simpleicons.org/visualstudio/5C2D91" height="38" alt="visualstudio logo"  />
+  <img width="13" />
+  <img src="https://cdn.simpleicons.org/adobexd/FF61F6" height="38" alt="xd logo"  />
+  <img width="13" />
+  <img src="https://cdn.simpleicons.org/xcode/147EFB" height="38" alt="xcode logo"  />
+  <img width="13" />
+  <img src="https://cdn.simpleicons.org/wordpress/21759B" height="38" alt="wordpress logo"  />
+</div>
+
+###
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Madhur002&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=great-gatsby&locale=en&hide_border=true&order=1" height="151" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Madhur002&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=great-gatsby&hide_border=true&order=2" height="159" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=Madhur002&locale=en&mode=daily&theme=great-gatsby&hide_border=true&border_radius=9&order=3" height="143" alt="streak graph"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/Madhur002/Madhur002/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="left">
+  <a href="https://linkedin.com/in/madhur-s-bbb7b5200" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="53" height="41" alt="linkedin logo"  />
+  </a>
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="53" height="41" alt="youtube logo"  />
+</div>
+
+###
